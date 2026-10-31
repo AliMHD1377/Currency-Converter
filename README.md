@@ -17,8 +17,8 @@
 ### ۱. کلون کردن پروژه
 
 ```bash
-git clone https://github.com/AliMHD1377/Personal-projects.git
-cd Personal-projects/Currency-Converter
+git clone https://github.com/AliMHD1377/Currency-Converter.git
+cd Currency-Converter
 ```
 
 ### ۲. ساخت محیط مجازی (اختیاری ولی توصیه‌شده)
